@@ -1,0 +1,10 @@
+Key hooks only work on MACOS
+
+To move an object, select it with a click, then move it along x/y axis with arrows,
+along z axis with z and x
+To change the object director vector, use the keypad:
+-1 and 4 to change the x component
+-2 and 5 to change the y component
+-3 and 6 to change the z component
+
+Press M to add a spot.
